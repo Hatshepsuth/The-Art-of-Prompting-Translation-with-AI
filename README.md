@@ -49,9 +49,9 @@ This book provides step-by-step instruction from basic prompting to advanced tec
 - 🔹 **Sample Chapters:**  
   Free extracts covering key sections on prompt design, workflow, and post-editing.
 - 🔹 **Ready-to-use Prompt Templates:**  
-  Curated and annotated, as featured in the book (see [`prompt-templates/`](prompt-templates/)).
+  Curated and annotated, as featured in the book (see [`samples/prompt-templates.md`](samples/prompt-templates.md)).
 - 🔹 **Checklists & Appendices:**  
-  For real-world AI translation (see [`checklists/`](checklists/)).
+  For real-world AI translation (see [`samples/translation-checklist.md`](samples/translation-checklist.md)).
 - 🔹 **Quickstart Instructions:**  
   For using prompt engineering in translation practice.
 - 🔹 **Links:**  
